@@ -1,0 +1,5 @@
+# Never commit real secrets or keys
+.streamlit/secrets.toml
+*.p8
+*.pem
+__pycache__/
